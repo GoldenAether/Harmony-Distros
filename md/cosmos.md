@@ -7,3 +7,6 @@ With features still on the way there is still work to be done so be sure to look
 Feel free to give me some of your ideaa that could make Cosmos better using the Contact me button in the info page of Cosmos
 <img src="../assets/harmonyScreenshots/Cosmos Screenshot.png" >
 Join anytime we are alway accepting new vistors to our universe
+
+<a style="margin-left: calc(50vw - 170px);" href="[https://github.com/GoldenAether/Cosmos](https://github.com/GoldenAether/The-Cosmos-Project/releases)">
+<img src="../assets/Cosmos Download Button.png" height=60>
