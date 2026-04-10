@@ -9,4 +9,4 @@ Feel free to give me some of your ideaa that could make Cosmos better using the 
 Join anytime we are alway accepting new vistors to our universe
 
 <a style="margin-left: calc(50vw - 170px);" href="[https://github.com/GoldenAether/Cosmos](https://github.com/GoldenAether/The-Cosmos-Project/releases)">
-<img src="../assets/Cosmos Download.png" height=60>
+<img src="../assets/Cosmos Download.png" height=120>
